@@ -29,7 +29,7 @@ These can be altered in the code inside `findFile()` to suit your use.
 
 Use `gcc` to compile the code:
 ```bash
-gcc -o appsearcher appsearcher.c
+gcc -o appsearcher appFinder.c
 ```
 
 ## ▶️ Usage
